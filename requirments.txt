@@ -2,7 +2,8 @@ streamlit
 pandas
 numpy
 plotly
-folium
-streamlit-folium
+folium==0.25.3
+streamlit-folium==0.25.3
 scikit-learn
 seaborn
+
